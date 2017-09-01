@@ -26,7 +26,7 @@ l1 = [1,2,3,4,5]
             pass:本次循环都不做,占位使用
             return:
             exit:退出程序
-包含      "alex" in ['shuaige'],
+判断字符串是否在列表中,返回Trun和False     in      "alex" in ['shuaige'],
 清空列表     clear
 拷贝         copy
 计算某个元素在列表里出现的次数    count
