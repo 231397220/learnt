@@ -1,0 +1,10 @@
+INFO:root:So should this
+WARNING:root:And this, too
+INFO:root:So should this
+WARNING:root:And this, too
+INFO:root:So should this
+WARNING:root:And this, too
+2017-09-18 15:54:37,735 - So should this
+2017-09-18 15:54:37,735 - And this, too
+2017-09-18 15:55:10,575 - So should this - INFO
+2017-09-18 15:55:10,576 - And this, too - WARNING

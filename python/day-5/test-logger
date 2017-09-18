@@ -1,0 +1,8 @@
+2017-09-18 15:43:51,730 - sam-test - $(levelname)s - info message
+2017-09-18 15:43:51,730 - sam-test - $(levelname)s - warn message
+2017-09-18 15:43:51,730 - sam-test - $(levelname)s - error message
+2017-09-18 15:43:51,730 - sam-test - $(levelname)s - critical message
+2017-09-18 15:44:30,888 - sam-test - INFO - info message
+2017-09-18 15:44:30,888 - sam-test - WARNING - warn message
+2017-09-18 15:44:30,888 - sam-test - ERROR - error message
+2017-09-18 15:44:30,888 - sam-test - CRITICAL - critical message

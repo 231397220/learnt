@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- -*-
+'''
+报错函数的终端状态
 
+
+'''
 
 def cash_money(amount):
     while amount >0:
